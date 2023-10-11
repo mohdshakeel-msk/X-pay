@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503867129406",
+    "project_id": "xpay-b26ee",
+    "storage_bucket": "xpay-b26ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503867129406:android:da97be9543b8badd325b6f",
+        "android_client_info": {
+          "package_name": "com.example.xpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503867129406-7ftgqjkqftpbgc0g92fj1p7t5o6qokst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ2ksC5A7-YCj3k6y3f9hHXv1dkEiTzEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503867129406-7ftgqjkqftpbgc0g92fj1p7t5o6qokst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

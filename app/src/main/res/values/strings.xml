@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Xpay</string>
+    <string name="splashscreenicon">SplashScreenIcon</string>
+    <string name="otp_Verification">OTP Verification</string>
+    <string name="otp">We will send you an one time password on this given mobile number</string>
+    <string name="enterNumber">Enter Mobile Number</string>
+    <string name="enterOTP">Please Enter the OTP sent to you</string>
+    <string name="homeScreenMessages">Check your all Spends in Transactions</string>
+    <string name="upcomingFeatures">Upcoming Features</string>
+    <string name="instantLone">Instant Lone</string>
+    <string name="instantLoneText">Lone feature is coming soon to give Financial free month end.</string>
+    <string name="userProfileSetup">Setup Your Profile</string>
+    <string name="userProfileSetupText">Set your Profile photo and your Name here...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
